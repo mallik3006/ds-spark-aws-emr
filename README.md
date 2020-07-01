@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Customer churn prediction is one of the most important real World use case scenarios for different kinds of businesses. In this article I analyze customer data of a music service company to build a model which can predict the customer churn rate. The full dataset is 12 GB in size and to be able to analyze such a large dataset, Amazon Elastic MapReduce service is leveraged. The service is used to create a cluster of nodes with preinstalled open source tool — Apache Spark. Following is the configuration used:
+Customer churn prediction is one of the most important real World use case scenarios for different kinds of businesses. In this article I analyze customer data of a music service company to build a model which can predict the customer churn rate. The full dataset is 12 GB in size and to be able to analyze such a large dataset, Amazon Elastic MapReduce service is leveraged. The service is used to create a cluster of nodes with preinstalled open source tool — Apache Spark.
 
 ### Setup
 
@@ -15,7 +15,7 @@ Number of instance: 4 (Master + 3 Core)
 
 ### Data
 
-The full dataset is 12 GB and has are over 26 million rows of log data gathered from 22,277 unique customers. The features are made up of numeric and categorical values which describe an event. Data was retrieved from AWS S3 bucket.
+The full dataset has over 26 million rows of log data from 22,277 unique customers. The features are made up of numeric and categorical values which describe an event. Data is retrieved from AWS S3 bucket.
 
 ### Libraries
 
