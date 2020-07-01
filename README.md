@@ -31,7 +31,8 @@ The full dataset has over 26 million rows of log data from 22,277 unique custome
 Following are the steps involved:
 
 * Exploratory Data Analysis
-* Feature Engineering - Built 15 features using the use log data
+* Feature Engineering - Built 15 features using the user log data
+* Over Sampling of the minority (positive) Class for modeling input.
 * Modeling Pipeline:
   * StringIndexer — StringIndexerencodes string column of labels to a column of label indices. 
   * VectorAssembler — VectorAssembler is a transformer that combines a given list of columns into a single vector column
