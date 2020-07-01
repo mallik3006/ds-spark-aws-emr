@@ -48,3 +48,8 @@ GBT Classifier gave the best results compared to other classifiers with a very h
 ![Feature Importance](https://github.com/mallik3006/DS-Spark-EMR/blob/master/feature_importance_gbt.png)
 
 Please follow the blog [here](https://medium.com/@mallik30/customer-churn-prediction-using-amazon-emr-and-apache-spark-a6fd37126f0b?sk=76af45e4628c64eca9a27aebd9e93ad0) for more details.
+
+
+### Repository Files 
+
+* `Sparkify.ipynb`: Notebook with EDA, Feature engineering and Modeling using Pyspark on Amazon EMR 
