@@ -19,11 +19,11 @@ The full dataset is 12 GB and has are over 26 million rows of log data gathered 
 
 ### Libraries
 
-`Spark Dataframe API`
-`Spark ML API`
-`pandas`
-`seaborn`
-`matplotlib`
+* `Spark Dataframe API`
+* `Spark ML API`
+* `pandas`
+* `seaborn`
+* `matplotlib`
 
 
 ### Analysis
