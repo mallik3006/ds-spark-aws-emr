@@ -52,4 +52,4 @@ Please follow the blog [here](https://medium.com/@mallik30/customer-churn-predic
 
 ### Repository Files 
 
-* `Sparkify.ipynb`: Notebook with EDA, Feature engineering and Modeling using Pyspark on Amazon EMR 
+* `Sparkify.ipynb`: Notebook with EDA, Feature engineering, Over-sampling and Modeling using Pyspark on Amazon EMR 
