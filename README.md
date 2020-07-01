@@ -31,12 +31,12 @@ The full dataset has over 26 million rows of log data from 22,277 unique custome
 Following are the steps involved:
 
 * Exploratory Data Analysis
-* Feature Engineering - Built 15 features using the 
-* Modeling Pipeline build:
+* Feature Engineering - Built 15 features using the use log data
+* Modeling Pipeline:
   * StringIndexer — StringIndexerencodes string column of labels to a column of label indices. 
   * VectorAssembler — VectorAssembler is a transformer that combines a given list of columns into a single vector column
   * Normalizer — Normalizer is a Transformer which transforms a dataset of Vector rows, normalizing each Vector to have unit norm
-  * Classifier — Logistic Regression, Random Forest and GBT Classifier
+  * Classifiers — Logistic Regression, Random Forest and GBT Classifier
   
 ### Results
 
